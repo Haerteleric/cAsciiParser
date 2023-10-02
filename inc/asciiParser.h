@@ -28,6 +28,10 @@
 #include <stddef.h>
 #include <stdbool.h>
 
+#ifndef _ASCII_PARSER_INCLUDED
+#define _ASCII_PARSER_INCLUDED
+#endif
+
 #ifndef _ASCII_PARSER_CONTENT_TYPES_ENUM_DEFINED
 #define _ASCII_PARSER_CONTENT_TYPES_ENUM_DEFINED
 
