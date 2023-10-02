@@ -9,9 +9,9 @@
 
 //following just for testing
 #define ASCII_PARSER_ONLY_PROTOTYPE_DECLARATION
-#include "asciiParser.h" //Prototype
+#include "asciiParser_t.h" //Prototype
 #undef ASCII_PARSER_ONLY_PROTOTYPE_DECLARATION
-#include "asciiParser.h" //Implementation
+#include "asciiParser_t.h" //Implementation
 /***********************************************************************************/
 int main(void)
 {
